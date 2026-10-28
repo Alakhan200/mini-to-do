@@ -1,0 +1,8 @@
+ПЕРВАЯ ЗАМЕТКА
+сюад
+нееее 
+ok
+234
+133d
+set PYTHONIOENCODING=utf8 && python -u "c:\Users\topvi\Python\main.py"
+3113
